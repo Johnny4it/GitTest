@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Create a new brach is very quick & simple enough.
+Create a new brach is very quick and simple.
